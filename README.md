@@ -17,8 +17,10 @@ openGL渲染图片yuv数据
 参见：我的文章：KxMovieViewController：http://www.jianshu.com/p/cd33f4ac10e5
 
 更多资源欢迎进入学习交流平台：QQ群：224110749
-
 有问题也可以联系我QQ:1107214478(一个做iOS开发的小生，但是我并不觉的我是在做iOS)
 
 若是觉得对你有用，欢迎打赏：
+![Image text](https://github.com/mrzhao12/FFmpegDecodeH264_OpenGLESRenderYUV/blob/master/img-folder/0279F8A0-048B-4796-95F0-7AEB69EEB6D5.png)
+
+![Image text](https://github.com/mrzhao12/FFmpegDecodeH264_OpenGLESRenderYUV/blob/master/img-folder/A75FCB6C-5AB9-48BC-8098-BC3B37E363A6.png)
 
